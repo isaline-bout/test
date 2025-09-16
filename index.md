@@ -1,3 +1,3 @@
 # Mon année en Angleterre
 
-![image](/assets/royal_holloway.jpg)
+![image](/assets/20250611_102414.jpg)
