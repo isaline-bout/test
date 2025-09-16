@@ -1,3 +1,5 @@
-#Mon année en Angleterre 
+# Mon année en Angleterre 
 
-![Royal Holloway, University of London!](/assets/images/royal-holloway.jpg "Royal Holloway")
+![Newquay](/assets/20250517_163926.jpg)
+
+
