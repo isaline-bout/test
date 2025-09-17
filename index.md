@@ -4,6 +4,8 @@
 
 [Aller à la page suivante](Newquay.md)
 
+[Newquay](Newquay.md)
+
 ## Royal Holloway 
 
 - sksfifsjifsijfijfss
