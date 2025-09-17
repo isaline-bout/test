@@ -1,6 +1,6 @@
 # Mon année en Angleterre
 
-[Newquay](test_folder/Newquay.md)
+[Newquay](test/folder/Newquay.md)
 
 ## Royal Holloway 
 
