@@ -2,6 +2,8 @@
 
 [Newquay](test/folder/Newquay.md)
 
+[Aller à la page suivante](Newquay.md)
+
 ## Royal Holloway 
 
 - sksfifsjifsijfijfss
