@@ -1,6 +1,6 @@
 # Mon année en Angleterre
 
-[Newquay](test_folder/20250611_103150.jpg)
+[Newquay](test_folder/Newquay.md)
 
 ## Royal Holloway 
 
